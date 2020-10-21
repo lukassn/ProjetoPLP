@@ -5,4 +5,4 @@ module Recebedor where
 
 
 
-    ficha de dados e medica seria melhor fazer um objeto pra cada ou direto aqui?
+    
